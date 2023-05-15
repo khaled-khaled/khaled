@@ -1,0 +1,56 @@
+body 
+{
+    background-color: Turquoise;
+}
+a:hover
+{
+	color:green;
+	font-size:200px
+}
+#id
+{
+	border: 10px solid black;
+	height: 100px;
+	width: 99px;
+	c
+}
+.class
+{
+	background-color: white;
+	height: 99px;
+	width: 94px;
+	margin-left: 10px;
+	border: 10px dashed black;
+}
+h1
+{
+	font-family:Comic Sans MS;
+}
+h2
+{
+	font-style: oblique;
+}
+p
+{
+	float:= left
+}
+#p
+{
+	font-size: 100px;
+	font-weight: 700;
+}
+#text1 , #number1 , #date1
+{
+	background-color: yellow;
+}
+
+#label1
+{
+	color:blue
+}
+table , td , th
+{
+	border: 30px dotted yellow ;
+	font-size:100px;
+	border-collapse: collapse;
+}
